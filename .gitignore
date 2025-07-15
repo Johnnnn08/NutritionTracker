@@ -1,1 +1,7 @@
 .env
+test_fatsecret.py
+
+
+venv/
+__pycache__/
+*.pyc
