@@ -1,6 +1,6 @@
 .env
 test_fatsecret.py
-
+password.py
 
 venv/
 __pycache__/
